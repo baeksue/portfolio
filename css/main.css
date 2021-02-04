@@ -12,7 +12,7 @@
 #p1 > b {position: absolute; top: 50%; left: 50%; transform:translateX(-50%); margin-top: -52px; font-size: 55px; letter-spacing: 6px; color: #fff;}
 #p1 p {position: absolute; top: 50%; left: 50%; transform:translateX(-50%); margin-top: 25px; font-size: 20px; color: #767676;}
 #p2 {position: relative; width: 100%; height: 1080px; background-color: #fcfcfc;}
-#p2 #photo {position: absolute; width: 400px; top: 50%; left: 400px; font-family: 'Noto Sans KR', sans-serif; color: #3f3f3f;}
+#p2 #photo {position: absolute; width: 400px; top: 50%; left: 400px; font-family: 'Noto Sans KR', sans-serif; color: #3f3f3f; text-align: center;}
 #p2 > h2 {position: absolute; left: 50%; top: 150px; transform: translateX(-50%); font-size: 36px; letter-spacing: 7px; text-align: center; font-family: 'Noto Sans KR', sans-serif;color: #3f3f3f;}
 #p2 > h2 span {color: #eaab34;}
 #p2 #intro {width: 800px; position: absolute; top: 410px; left: 780px; font-family: 'Noto Sans KR', sans-serif; color: #3f3f3f; border-left: solid 1px #919191;  overflow: hidden;}
@@ -59,7 +59,7 @@
 #p4 .p4_intro span {color: #eaab34;}
 #p4 .p4_intro>p {padding: 0 0 100px 0; font-size: 20px; text-align: center;}
 #p4 .p4_intro>ul {font-family: 'Noto Sans KR', sans-serif;color: #3f3f3f;}
-#p4 .p4_intro>ul>li:first-child {padding-bottom:20px;}
+_#p4 .p4_intro>ul>li:first-child {padding-bottom:20px;}
 #p4 .p4_intro>ul>li:nth-child(8) {padding-bottom:100px;}
 #p4 .p4_intro>ul>li:nth-child(9) {padding-bottom:70px;}
 #p4 .p4_intro>ul>li:nth-child(9) > ul p {font-size: 15px;}
@@ -107,10 +107,10 @@
 #p6 .p6_intro {position: absolute; top: 120px; right: 50px; float: right; width: 500px; font-family: 'Noto Sans KR', sans-serif;color: #3f3f3f;}
 #p6 .p6_intro span {color: #eaab34;}
 #p6 .p6_intro>p {padding: 0 0 100px 0; font-size: 20px; text-align: center;}
-#p6 .p6_intro ul li:first-child {padding-bottom: 50px;}
-#p6 .p6_intro ul li:nth-child(5) {padding-bottom: 90px;}
-#p6 .p6_intro ul li:nth-child(6)>ul p:last-child {padding-bottom: 100px;}
-#p6 .p6_intro ul li:nth-child(8) {padding-bottom: 80px;}
+_#p6 .p6_intro ul li:first-child {padding-bottom: 50px;}
+#p6 .p6_intro ul li:nth-child(6) {padding-bottom: 90px;}
+#p6 .p6_intro ul li:nth-child(7)>ul p:last-child {padding-bottom: 100px;}
+#p6 .p6_intro ul li:nth-child(9) {padding-bottom: 80px;}
 #p6 .p6_intro ul li:nth-child(11) {padding-bottom: 90px;}
 
 
